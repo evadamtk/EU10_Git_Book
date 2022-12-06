@@ -1,9 +1,9 @@
 Question: What is the goal of each step?
 
 Step 2: Designing
-Goal:
-Architectures and designers creates Design Documents
-Design the application' UI, Database, API, etc.Output:
+Goal:
+Architectures and designers creates Design Documents
+Design the application' UI, Database, API, etc.Output:
 
 - SRS doc & Prototype of the app
 
