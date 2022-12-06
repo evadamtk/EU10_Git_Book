@@ -1,11 +1,12 @@
-Step 2: Coding
+Question: What is the goal of each step?
 
-Goal: 1. Business team collects the detail requirements
-    - Requirements may from different resources
-2. Analyze the requirements & Plan how to develop the app
-    - The team analyzes economic, law regulation, technology, and schedule; this is called a feasibility study.
-3. Document all the functional and non-functional requirements
-    - Software Requirement Specification (SRS)
+Step 2: Designing
+Goal:
+Architectures and designers creates Design Documents
+Design the application' UI, Database, API, etc.Output:
+
+- SRS doc & Prototype of the app
+
 
 page 2
 text
