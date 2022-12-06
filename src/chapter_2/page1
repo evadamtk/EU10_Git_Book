@@ -1,0 +1,12 @@
+Question: What is the goal of each step?
+
+Step 1: Requirement Gathering & Analysis
+
+Goal: 1. Business team collects the detail requirements
+    - Requirements may from different resources
+2. Analyze the requirements & Plan how to develop the app
+    - The team analyzes economic, law regulation, technology, and schedule; this is called a feasibility study.
+3. Document all the functional and non-functional requirements
+    - Software Requirement Specification (SRS)
+Eg.:
+    - Market requirement (MR), Functional requirement(FR), Non-functional requirements(NFR), etc
