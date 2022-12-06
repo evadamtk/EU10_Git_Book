@@ -7,6 +7,5 @@ Design the application' UI, Database, API, etc.Output:
 
 - SRS doc & Prototype of the app
 
-
-page 2
+page 2;
 subject is coding
